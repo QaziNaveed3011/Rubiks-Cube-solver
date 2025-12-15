@@ -114,6 +114,6 @@ The Javascript modules can be downloaded using npm. These lines should be run wh
     cd tween.js
     npm i .
     npm run build
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-I would like to give thanks to my supervisor for this project, Mehrtash Harandi. Another big thanks has to go to the creators of DeepCubeA, which provided the algorithm of this project.
+
+
